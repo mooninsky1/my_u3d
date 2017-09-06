@@ -1,0 +1,11 @@
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\my_u3d\plane\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\my_u3d\plane\obj\Debug\UnityVS.plane.CSharp.csprojResolveAssemblyReference.cache
+E:\my_u3d\plane\obj\Debug\Assembly-CSharp.dll
+E:\my_u3d\plane\obj\Debug\Assembly-CSharp.pdb
